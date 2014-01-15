@@ -1,5 +1,7 @@
 # SPLBokehBackgroundView
 
+![Screenshot](https://raw.github.com/OliverLetterer/SPLBokehBackgroundView/master/Screenshots/bokeh.gif)
+
 ## Installation
 
 ``` objc

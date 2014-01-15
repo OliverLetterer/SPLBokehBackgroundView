@@ -4,7 +4,7 @@
 
 ## Installation
 
-``` objc
+``` ruby
 pod 'SPLBokehBackgroundView'
 ```
 

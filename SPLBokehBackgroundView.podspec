@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.frameworks    = 'Foundation', 'CoreMotion', 'SpriteKit'
   spec.requires_arc  = true
   spec.homepage      = 'https://github.com/OliverLetterer/SPLBokehBackgroundView'
-  spec.summary       = 'Close rebuild of Apples dynamic wallpapers.'
+  spec.summary       = 'Rebuilding iOS 7 dynamic wallpapers.'
   spec.author        = { 'Oliver Letterer' => 'oliver.letterer@gmail.com' }
   spec.resource_bundles = { 'SPLBokehBackgroundView' => 'Resources/*' }
   spec.social_media_url = 'https://twitter.com/oletterer'

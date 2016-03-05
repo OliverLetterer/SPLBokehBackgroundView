@@ -1,6 +1,6 @@
 # SPLBokehBackgroundView
 
-![Screenshot](https://raw.github.com/OliverLetterer/SPLBokehBackgroundView/master/Screenshots/bokeh.gif)
+![Screenshot](https://raw.githubusercontent.com/OliverLetterer/SPLBokehBackgroundView/master/Screenshots/bokeh.gif)
 
 ## Installation
 
